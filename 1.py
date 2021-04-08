@@ -12,11 +12,10 @@ while True:
     print("Sqrt")
     print("Factoril")
     print("Radian")
-    print("Exit..")
+
 
     Oprtr = input(" Opertor: ")
-    if Oprtr == "Exit":
-        break
+    
 
     A = int(input("Enter Num: "))
     
